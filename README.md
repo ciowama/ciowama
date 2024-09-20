@@ -1,4 +1,5 @@
 ## Youth
+
 |Team Name| 	Category |	Participant 1|	Participant 2| 
 | ---- |---- |---- |---- |
 |Paddle Warriors|	Youth|	Adhil Anwin|	Arnav Anwin|	 
@@ -10,7 +11,8 @@
 |Kerala Tuskers	|Youth	|Aditya Rajesh	|Sreehari Goapkumar	| 
 |Oreo	|Youth|	Nishanth Reddy|	Simon Gentry|	 
 
-	## Women's
+## Women's
+
  |Team Name| 	Category |	Participant 1|	Participant 2| 
 | ---- |---- |---- |---- |
 |The Rebels||	Navya Uthaman|	Remya Ramanathan|	 
